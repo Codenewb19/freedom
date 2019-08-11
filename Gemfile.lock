@@ -1,5 +1,6 @@
 GEM
   remote: https://rubygems.org/
+  remote: https://rails-assets.org/
   specs:
     actioncable (5.2.3)
       actionpack (= 5.2.3)
@@ -225,7 +226,7 @@ DEPENDENCIES
   popper_js (= 1.14.3)
   puma (~> 3.11)
   rails (~> 5.2.3)
-  rails-assets-tether (>= 1.1.0)
+  rails-assets-tether (>= 1.1.0)!
   sass-rails (~> 5.0)
   selenium-webdriver
   spring
